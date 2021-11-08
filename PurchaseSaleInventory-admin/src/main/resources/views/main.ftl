@@ -92,49 +92,6 @@
                         </dl>
                     </li>
                     <li class="layui-nav-item">
-                        <a href="javascript:;" class="layui-menu-tips"><i class="fa fa-gears"></i><span class="layui-left-nav"> 库存管理</span> <span class="layui-nav-more"></span></a>
-                        <dl class="layui-nav-child">
-                            <dd>
-                                <a href="javascript:;" class="layui-menu-tips" data-type="tabAdd" data-tab-mpi="m-p-i-11" data-tab="damage/index" target="_self"><i class="fa fa-user"></i><span class="layui-left-nav"> 商品报损</span></a>
-                            </dd>
-
-                            <dd class="">
-                                <a href="javascript:;" class="layui-menu-tips" data-type="tabAdd" data-tab-mpi="m-p-i-12" data-tab="overflow/index" target="_self"><i class="fa fa-tachometer"></i><span class="layui-left-nav"> 商品报溢</span></a>
-                            </dd>
-                            <dd class="">
-                                <a href="javascript:;" class="layui-menu-tips" data-type="tabAdd" data-tab-mpi="m-p-i-13" data-tab="common/alarmPage" target="_self"><i class="fa fa-tachometer"></i><span class="layui-left-nav"> 库存报警</span></a>
-                            </dd>
-                            <dd class="">
-                                <a href="javascript:;" class="layui-menu-tips" data-type="tabAdd" data-tab-mpi="m-p-i-13" data-tab="common/toDamageOverflowSearchPage" target="_self"><i class="fa fa-tachometer"></i><span class="layui-left-nav"> 报损报溢查询</span></a>
-                            </dd>
-                            <dd class="">
-                                <a href="javascript:;" class="layui-menu-tips" data-type="tabAdd" data-tab-mpi="m-p-i-13" data-tab="common/toGoodsStockPage" target="_self"><i class="fa fa-tachometer"></i><span class="layui-left-nav"> 当前库存查询</span></a>
-                            </dd>
-                        </dl>
-                    </li>
-                    <li class="layui-nav-item hiddenStyle">
-                        <a href="javascript:;" class="layui-menu-tips"><i class="fa fa-gears"></i><span class="layui-left-nav"> 统计报表</span> <span class="layui-nav-more"></span></a>
-                        <dl class="layui-nav-child">
-                            <dd>
-                                <a href="javascript:;" class="layui-menu-tips" data-type="tabAdd" data-tab-mpi="m-p-i-11" data-tab="report/countSupplier" target="_self"><i class="fa fa-user"></i><span class="layui-left-nav"> 供应商统计</span></a>
-                            </dd>
-
-                            <dd class="">
-                                <a href="javascript:;" class="layui-menu-tips" data-type="tabAdd" data-tab-mpi="m-p-i-12" data-tab="report/countCustomer" target="_self"><i class="fa fa-tachometer"></i><span class="layui-left-nav"> 客户统计</span></a>
-                            </dd>
-                            <dd class="">
-                                <a href="javascript:;" class="layui-menu-tips" data-type="tabAdd" data-tab-mpi="m-p-i-13" data-tab="report/countPurchase" target="_self"><i class="fa fa-tachometer"></i><span class="layui-left-nav"> 商品采购统计</span></a>
-                            </dd>
-                            <dd class="">
-                                <a href="javascript:;" class="layui-menu-tips" data-type="tabAdd" data-tab-mpi="m-p-i-13" data-tab="report/countSale" target="_self"><i class="fa fa-tachometer"></i><span class="layui-left-nav"> 商品销售统计</span></a>
-                            </dd>
-                            <dd class="">
-                                <a href="javascript:;" class="layui-menu-tips" data-type="tabAdd" data-tab-mpi="m-p-i-13" data-tab="report/countDaySale" target="_self"><i class="fa fa-tachometer"></i><span class="layui-left-nav"> 按日统计</span></a>
-                                <a href="javascript:;" class="layui-menu-tips" data-type="tabAdd" data-tab-mpi="m-p-i-13" data-tab="report/countMonthSale" target="_self"><i class="fa fa-tachometer"></i><span class="layui-left-nav"> 按月统计</span></a>
-                            </dd>
-                        </dl>
-                    </li>
-                    <li class="layui-nav-item">
                         <a href="javascript:;" class="layui-menu-tips"><i class="fa fa-gears"></i><span class="layui-left-nav"> 基础资料</span> <span class="layui-nav-more"></span></a>
                         <dl class="layui-nav-child">
                             <dd>
