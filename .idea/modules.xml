@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PurchaseSaleInventory-admin/PurchaseSaleInventory-admin.iml" filepath="$PROJECT_DIR$/PurchaseSaleInventory-admin/PurchaseSaleInventory-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PurchaseSaleInventory-code-generator/PurchaseSaleInventory-code-generator.iml" filepath="$PROJECT_DIR$/PurchaseSaleInventory-code-generator/PurchaseSaleInventory-code-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/goods_manger.iml" filepath="$PROJECT_DIR$/.idea/goods_manger.iml" />
+    </modules>
+  </component>
+</project>
