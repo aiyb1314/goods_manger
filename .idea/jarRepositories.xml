@@ -1,0 +1,17 @@
+
+	<div class="right">
+		<ul class="info">
+			<li class="title"><h2>1, 'beforeMousedown / onMousedown / beforeMouseup / onMouseup / beforeRightClick / onRightClick' callback function</h2>
+				<ul class="list">
+				<li>zTree provide these types of mouse event callbacks, in order to facilitate the user to extend the functionality. And doesn't affect zTree normal function, This simple demo shows how to monitor the mousedown/mouseup/rightClick event.</li>
+				<li><p><span class="highlight_red">Try clicking with the mouse on the zTree (left or right),  by the way to see log.</span><br/>
+					mousedown event log:<br/>
+					<ul id="log_down" class="log small"></ul>
+					mouseup event log:<br/>
+					<ul id="log_up" class="log small"></ul>
+					rightClick event log:<br/>
+					<ul id="log_right" class="log small"></ul></p>
+				</li>
+				</ul>
+			</li>
+			<li clas

@@ -1,0 +1,20 @@
+layui.use(['table','layer'],function(){
+       var layer = parent.layer === undefined ? layui.layer : top.layer,
+        $ = layui.jquery,
+        table = layui.table;
+    //角色列表展示
+    var  tableIns = table.render({
+        elem: '#roleList',
+        url : ctx+'/role/list',
+        cellMinWidth : 95,
+        page : true,
+        height : "full-125",
+        limits : [10,15,20,25],
+        limit : 10,
+        toolbar: "#toolbarDemo",
+        id : "roleListTable",
+        cols : [[
+            {type: "checkbox", fixed:"left", width:50},
+            {field: "id", title:'编号',fixed:"true", width:80},
+            {field: 'name', title: '角色名', minWidth:50, align:"center"},
+            {field: 'bz', title: '角色备注', minWidth:100, align:'center'},

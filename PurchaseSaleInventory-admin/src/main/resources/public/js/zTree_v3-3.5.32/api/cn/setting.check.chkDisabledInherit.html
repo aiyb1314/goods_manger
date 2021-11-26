@@ -1,0 +1,22 @@
+<div class="apiDetail">
+<div>
+	<h2><span>Function(parentNode, [index], newNodes, isSilent)</span><span class="path">zTreeObj.</span>addNodes</h2>
+	<h3>概述<span class="h3_info">[ 依赖 <span class="highlight_green">jquery.ztree.core</span> 扩展 js ]</span></h3>
+	<div class="desc">
+		<p></p>
+		<div class="longdesc">
+			<p>添加节点。</p>
+			<p class="highlight_red">v3.x 为了避免原先反复初始化造成的数据重复问题，在 初始化 和 添加节点 时内部进行 clone 操作。如果需要获取数据在 zTree 内的对象，请获取此方法的返回值。</p>
+			<p class="highlight_red">请通过 zTree 对象执行此方法。</p>
+		</div>
+	</div>
+	<h3>Function 参数说明</h3>
+	<div class="desc">
+	<h4><b>parentNode</b><span>JSON</span></h4>
+	<p>指定的父节点，如果增加根节点，请设置 parentNode 为 null 即可。</p>
+	<p class="highlight_red">请务必保证此节点数据对象 是 zTree 内部的数据对象</p>
+	<h4><b>[index]</b><span>Number</span></h4>
+	<p>新节点插入的位置（从 0 开始）</p>
+	<p>index = -1 时，插入到最后</p>
+	<p>此参数可忽略</p>
+	
